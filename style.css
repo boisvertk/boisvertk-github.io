@@ -1,10 +1,7 @@
 .navigationbar {
-    background: deeppink;
     float: right;
 }
-.about {
-    background: darkred;
-}
+
 img {
     padding:5px;
     border:5px solid maroon;
