@@ -58,7 +58,7 @@ nav a.active {
 
 .wapper {
     position: absolute;
-	background-color: ghostwhite;
+	/* background-color: ghostwhite; */
     border color: maroon;
 	border-top-width: 1px;
 	border-right-width: 1px;
@@ -80,4 +80,13 @@ nav a.active {
     padding: 5px;
     height: auto;
     
+}.info{ 
+    font-style: normal;
+    line-height: 20px;
+}
+
+#index {
+     float: right;
+     height: 350px;
+     width: 350px;   
 }
